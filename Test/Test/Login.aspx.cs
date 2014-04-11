@@ -18,9 +18,10 @@ namespace Test
                 {
                     if (User.Identity.IsAuthenticated)
                     {
-                        StatusText.Text = string.Format("Hello {0}!!", User.Identity.GetUserName());
-                        LoginStatus.Visible = true;
-                        LogoutButton.Visible = true;
+                        //StatusText.Text = string.Format("Hello {0}!!", User.Identity.GetUserName());
+                        //LoginStatus.Visible = true;
+                        //LogoutButton.Visible = true;
+                        Response.Redirect("Home.aspx");
                     }
                     else
                     {
@@ -50,11 +51,6 @@ namespace Test
                 }
             }
 
-            protected void SignOut(object sender, EventArgs e)
-            {
-                var authenticationManager = HttpContext.Current.GetOwinContext().Authentication;
-                authenticationManager.SignOut();
-                Response.Redirect("~/Login.aspx");
-            }
+            
         }
     }

@@ -56,3 +56,32 @@ C:\Users\Dasha\Desktop\Test\Test\bin\Newtonsoft.Json.xml
 C:\Users\Dasha\Desktop\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
 C:\Users\Dasha\Desktop\Test\Test\obj\Debug\Test.dll
 C:\Users\Dasha\Desktop\Test\Test\obj\Debug\Test.pdb
+C:\Users\Dasha\Documents\Visual Studio 2013\Projects\.Net\Test\Test\bin\Test.dll.config
+C:\Users\Dasha\Documents\Visual Studio 2013\Projects\.Net\Test\Test\bin\Test.dll
+C:\Users\Dasha\Documents\Visual Studio 2013\Projects\.Net\Test\Test\bin\Test.pdb
+C:\Users\Dasha\Documents\Visual Studio 2013\Projects\.Net\Test\Test\bin\EntityFramework.dll
+C:\Users\Dasha\Documents\Visual Studio 2013\Projects\.Net\Test\Test\bin\EntityFramework.SqlServer.dll
+C:\Users\Dasha\Documents\Visual Studio 2013\Projects\.Net\Test\Test\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Dasha\Documents\Visual Studio 2013\Projects\.Net\Test\Test\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Dasha\Documents\Visual Studio 2013\Projects\.Net\Test\Test\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Dasha\Documents\Visual Studio 2013\Projects\.Net\Test\Test\bin\Microsoft.Owin.dll
+C:\Users\Dasha\Documents\Visual Studio 2013\Projects\.Net\Test\Test\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Dasha\Documents\Visual Studio 2013\Projects\.Net\Test\Test\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Dasha\Documents\Visual Studio 2013\Projects\.Net\Test\Test\bin\Microsoft.Owin.Security.dll
+C:\Users\Dasha\Documents\Visual Studio 2013\Projects\.Net\Test\Test\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Dasha\Documents\Visual Studio 2013\Projects\.Net\Test\Test\bin\Newtonsoft.Json.dll
+C:\Users\Dasha\Documents\Visual Studio 2013\Projects\.Net\Test\Test\bin\Owin.dll
+C:\Users\Dasha\Documents\Visual Studio 2013\Projects\.Net\Test\Test\bin\EntityFramework.xml
+C:\Users\Dasha\Documents\Visual Studio 2013\Projects\.Net\Test\Test\bin\EntityFramework.SqlServer.xml
+C:\Users\Dasha\Documents\Visual Studio 2013\Projects\.Net\Test\Test\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Dasha\Documents\Visual Studio 2013\Projects\.Net\Test\Test\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Dasha\Documents\Visual Studio 2013\Projects\.Net\Test\Test\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Dasha\Documents\Visual Studio 2013\Projects\.Net\Test\Test\bin\Microsoft.Owin.xml
+C:\Users\Dasha\Documents\Visual Studio 2013\Projects\.Net\Test\Test\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Dasha\Documents\Visual Studio 2013\Projects\.Net\Test\Test\bin\Microsoft.Owin.Security.xml
+C:\Users\Dasha\Documents\Visual Studio 2013\Projects\.Net\Test\Test\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Dasha\Documents\Visual Studio 2013\Projects\.Net\Test\Test\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Dasha\Documents\Visual Studio 2013\Projects\.Net\Test\Test\bin\Newtonsoft.Json.xml
+C:\Users\Dasha\Documents\Visual Studio 2013\Projects\.Net\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Dasha\Documents\Visual Studio 2013\Projects\.Net\Test\Test\obj\Debug\Test.dll
+C:\Users\Dasha\Documents\Visual Studio 2013\Projects\.Net\Test\Test\obj\Debug\Test.pdb
